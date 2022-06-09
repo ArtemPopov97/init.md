@@ -1,0 +1,15 @@
+C:\Users\Вкусвилл\Desktop\C#2\init.md\Tesk001.md\bin\Debug\net6.0\Tesk001.md.exe
+C:\Users\Вкусвилл\Desktop\C#2\init.md\Tesk001.md\bin\Debug\net6.0\Tesk001.md.deps.json
+C:\Users\Вкусвилл\Desktop\C#2\init.md\Tesk001.md\bin\Debug\net6.0\Tesk001.md.runtimeconfig.json
+C:\Users\Вкусвилл\Desktop\C#2\init.md\Tesk001.md\bin\Debug\net6.0\Tesk001.md.dll
+C:\Users\Вкусвилл\Desktop\C#2\init.md\Tesk001.md\bin\Debug\net6.0\Tesk001.md.pdb
+C:\Users\Вкусвилл\Desktop\C#2\init.md\Tesk001.md\obj\Debug\net6.0\Tesk001.md.csproj.AssemblyReference.cache
+C:\Users\Вкусвилл\Desktop\C#2\init.md\Tesk001.md\obj\Debug\net6.0\Tesk001.md.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Вкусвилл\Desktop\C#2\init.md\Tesk001.md\obj\Debug\net6.0\Tesk001.md.AssemblyInfoInputs.cache
+C:\Users\Вкусвилл\Desktop\C#2\init.md\Tesk001.md\obj\Debug\net6.0\Tesk001.md.AssemblyInfo.cs
+C:\Users\Вкусвилл\Desktop\C#2\init.md\Tesk001.md\obj\Debug\net6.0\Tesk001.md.csproj.CoreCompileInputs.cache
+C:\Users\Вкусвилл\Desktop\C#2\init.md\Tesk001.md\obj\Debug\net6.0\Tesk001.md.dll
+C:\Users\Вкусвилл\Desktop\C#2\init.md\Tesk001.md\obj\Debug\net6.0\refint\Tesk001.md.dll
+C:\Users\Вкусвилл\Desktop\C#2\init.md\Tesk001.md\obj\Debug\net6.0\Tesk001.md.pdb
+C:\Users\Вкусвилл\Desktop\C#2\init.md\Tesk001.md\obj\Debug\net6.0\Tesk001.md.genruntimeconfig.cache
+C:\Users\Вкусвилл\Desktop\C#2\init.md\Tesk001.md\obj\Debug\net6.0\ref\Tesk001.md.dll
